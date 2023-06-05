@@ -1,4 +1,4 @@
-### CSC7 Final Project - READ ME (Program Explanation)
+### CIS-7 Final Project - READ ME (Program Explanation)
 
 Team Hard Stuck College: Vigenere Cipher Decryption Final Project
 
